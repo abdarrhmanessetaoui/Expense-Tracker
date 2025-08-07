@@ -4,7 +4,7 @@ A simple, elegant web application to **track your income and expenses** with rea
 
 ## 🔍 Preview
 
-![App Preview](img/Capture.PNG)
+![App Preview](Capture.PNG)
 
 
 ---
@@ -45,4 +45,5 @@ Expense-Tracker/
 ├── img/
 │   └── preview.png
 └── README.md
+
 
