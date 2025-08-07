@@ -9,6 +9,13 @@ A simple, elegant web application to **track your income and expenses** with rea
 
 ---
 
+
+## 🔗 Live Demo
+
+👉 [Click here to view the live app](https://abdarrhmanessetaoui.github.io/Expense-Tracker/)
+
+---
+
 ## 🚀 Features
 
 - Add income and expenses
@@ -38,3 +45,4 @@ Expense-Tracker/
 ├── img/
 │   └── preview.png
 └── README.md
+
