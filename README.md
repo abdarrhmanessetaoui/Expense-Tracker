@@ -42,8 +42,7 @@ Expense-Tracker/
 ├── index.html
 ├── style.css
 ├── script.js
-├── img/
-│   └── preview.png
 └── README.md
+
 
 
